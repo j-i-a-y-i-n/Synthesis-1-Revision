@@ -9,10 +9,10 @@
 <body>
 <div class="navigation">
   <div class="buttons">
-    <a href="https://j-i-a-y-i-n.github.io/Synthesis-1-Revision/">HOMEPAGE</a>
-    <a href="https://j-i-a-y-i-n.github.io/Synthesis-1-Revision/learninglog/">LEARNING LOG</a>
-    <a href="https://j-i-a-y-i-n.github.io/Synthesis-1-Revision/criticalanalysis/">CRITICAL ANALYSIS</a>
-    <a href="https://j-i-a-y-i-n.github.io/Synthesis-1-Revision/checklist/">CHECKLIST</a>
+    <a class= "bar" href="https://j-i-a-y-i-n.github.io/Synthesis-1-Revision/">HOMEPAGE</a>
+    <a class= "bar" href="https://j-i-a-y-i-n.github.io/Synthesis-1-Revision/learninglog/">LEARNING LOG</a>
+    <a class= "bar" href="https://j-i-a-y-i-n.github.io/Synthesis-1-Revision/criticalanalysis/">CRITICAL ANALYSIS</a>
+    <a class= "bar" href="https://j-i-a-y-i-n.github.io/Synthesis-1-Revision/checklist/">CHECKLIST</a>
   </div>
 </div>
 <div class="navborder">
